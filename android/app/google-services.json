@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65015256886",
+    "project_id": "dr-report-reader-81c88",
+    "storage_bucket": "dr-report-reader-81c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65015256886:android:113e403e0a52bf1ee40597",
+        "android_client_info": {
+          "package_name": "com.ai.drreportreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65015256886-vvrfhi5fr4g2hmpk6nhkn3hivphgsuac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBieRl188Os6O9VvX6LuI7W8J4l5a_r9Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65015256886-vvrfhi5fr4g2hmpk6nhkn3hivphgsuac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
